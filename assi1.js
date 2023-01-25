@@ -3,5 +3,5 @@ if(age>18)
 console.log("yes");
 else
 {
-    console.log("no")
+    console.log("NO")
 }
